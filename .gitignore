@@ -1,0 +1,15 @@
+# Environment variables (Contains API Keys and Passwords!)
+.env
+
+# Chrome Profile (Contains browser cookies and active sessions!)
+chrome_profile/
+
+# Python Virtual Environment
+ai_job_env/
+__pycache__/
+*.pyc
+
+# Local Data and Logs
+applied_jobs.csv
+thought_log_*.json
+thought_log_*.txt
