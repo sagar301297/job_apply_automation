@@ -1,0 +1,5 @@
+browser-use>=0.13.7
+langchain-google-genai
+playwright
+python-dotenv
+pydantic
